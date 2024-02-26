@@ -1,0 +1,10 @@
+FLUXO PRINCIPAL
+
+@@flowname: 'Diário Oficial GO'
+External.RunFlow FlowId: '670b95dc-11c9-4bfa-b401-ded406565b3a'
+@@flowname: 'Diário Oficial DF'
+External.RunFlow FlowId: '64e6655f-908d-4507-be83-0461b1382572'
+@@flowname: 'Diário Oficial União'
+External.RunFlow FlowId: 'bcbd0f6f-73ca-48fe-b556-5e7e3872a38b'
+
+
